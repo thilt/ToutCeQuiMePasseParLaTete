@@ -17,8 +17,8 @@ public class POP3Manager {
         Properties props = new Properties();
         props.put("mail.host", "POP3.HOSTNAME");
         props.put("mail.store.protocole", "pop3");
-        final String username = "";
-        final String password = "";
+        final String username = "test";
+        final String password = "test";
         Authenticator auth = new Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
