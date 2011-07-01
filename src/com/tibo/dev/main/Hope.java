@@ -10,6 +10,7 @@ import java.sql.SQLException;
  * Date: 03/03/11
  * Time: 21:53
  * To change this template use File | Settings | File Templates.
+ * Si tu peux voir ca c'est que ca marche ! ! !!
  */
 public class Hope {
 
