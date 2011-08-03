@@ -47,7 +47,7 @@ public class Hope {
     public Connection openConnection(){
         try {
             Connection connection = DriverManager.getConnection("", "", "");
-            connection.
+
         } catch (SQLException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
