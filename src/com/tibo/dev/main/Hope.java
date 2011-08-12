@@ -45,12 +45,14 @@ public class Hope {
     }
 
     public Connection openConnection(){
+        Connection connection = null;
         try {
-            Connection connection = DriverManager.getConnection("", "", "");
+             connection = DriverManager.getConnection("", "", "");
 
         } catch (SQLException e) {
-            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+            e.printStackTrace();
         }
+        return connection;
     }
 
 }
