@@ -1,4 +1,4 @@
-package com.tibo.dev.main;
+package com.tibo.dev.common;
 
 import java.util.*;
 

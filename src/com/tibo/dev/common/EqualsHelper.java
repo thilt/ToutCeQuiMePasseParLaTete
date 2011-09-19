@@ -1,4 +1,4 @@
-package com.tibo.dev.main;
+package com.tibo.dev.common;
 
 /**
  * Created by IntelliJ IDEA.
