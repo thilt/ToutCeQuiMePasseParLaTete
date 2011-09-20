@@ -14,7 +14,7 @@ public class StreamUtils {
              private static final int BUFFER_SIZE = 128;
 
     /**
-     * Write a stream into another stream
+     * Write a stream to another stream
      * @param in read stream
      * @param out write stream
      * @throws IOException
