@@ -37,7 +37,7 @@ public class SafeList<E> extends ArrayList<E> implements List<E>{
 
     /**
      * Get the last element of the list
-     * @return
+     * @return an Object
      */
     public E getLast(){
         if (this.size()<1){
